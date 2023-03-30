@@ -1,4 +1,4 @@
-# Project Job-App
+# Project Masai Job App
 # Job App is basically used to save the details of a applied candidates. 
 Individual project built in 2 hours.
 
